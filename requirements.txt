@@ -9,3 +9,4 @@ streamlit_extras==0.3.2
 deeplake==3.6.25
 tabulate
 duckduckgo-search
+aiohttp>=3.9.2 # not directly required, pinned by Snyk to avoid a vulnerability
