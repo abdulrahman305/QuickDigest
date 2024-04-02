@@ -10,3 +10,4 @@ deeplake==3.6.25
 tabulate
 duckduckgo-search
 openai==0.28
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
